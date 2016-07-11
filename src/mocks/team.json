@@ -1,4 +1,13 @@
-[{
+[ {
+    "id": "45",
+    "name": "凌怡瑶",
+    "classtype": "6",
+    "professional": "软件工程",
+    "intro": "不断学习新知识，不断充实自己",
+    "imgsrc": "lyy.jpg",
+    "github": "https://github.com/lingyiyao",
+    "blog": "#"
+},{
     "id": "44",
     "name": "周一鸣",
     "classtype": "6",
